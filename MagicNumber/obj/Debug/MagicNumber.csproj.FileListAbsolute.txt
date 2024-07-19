@@ -1,0 +1,7 @@
+C:\Users\sanskruti.itkar\source\repos\MagicNumber\bin\Debug\MagicNumber.exe.config
+C:\Users\sanskruti.itkar\source\repos\MagicNumber\bin\Debug\MagicNumber.exe
+C:\Users\sanskruti.itkar\source\repos\MagicNumber\bin\Debug\MagicNumber.pdb
+C:\Users\sanskruti.itkar\source\repos\MagicNumber\obj\Debug\MagicNumber.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\MagicNumber\obj\Debug\MagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\MagicNumber\obj\Debug\MagicNumber.exe
+C:\Users\sanskruti.itkar\source\repos\MagicNumber\obj\Debug\MagicNumber.pdb

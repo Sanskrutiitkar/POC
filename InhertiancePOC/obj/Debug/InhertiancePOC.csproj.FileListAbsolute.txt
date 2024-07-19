@@ -1,0 +1,7 @@
+C:\Users\sanskruti.itkar\source\repos\InhertiancePOC\bin\Debug\InhertiancePOC.exe.config
+C:\Users\sanskruti.itkar\source\repos\InhertiancePOC\bin\Debug\InhertiancePOC.exe
+C:\Users\sanskruti.itkar\source\repos\InhertiancePOC\bin\Debug\InhertiancePOC.pdb
+C:\Users\sanskruti.itkar\source\repos\InhertiancePOC\obj\Debug\InhertiancePOC.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\InhertiancePOC\obj\Debug\InhertiancePOC.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\InhertiancePOC\obj\Debug\InhertiancePOC.exe
+C:\Users\sanskruti.itkar\source\repos\InhertiancePOC\obj\Debug\InhertiancePOC.pdb
